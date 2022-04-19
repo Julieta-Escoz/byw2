@@ -1,0 +1,43 @@
+.redes{
+    text-align: center;
+    margin: 60px;
+}
+
+.redes li img{
+    width: 80px;
+    height: 80px;
+    margin: 30px;
+}
+
+body .contacto{
+    background-color: #BBBBBB;
+    margin: 0px;
+    padding: 50px 0px;
+    font-size: 16px;
+}
+
+.contacto form{
+    margin: 40px 0px 20px 50px;
+}
+.contacto label{
+    display: block;
+    padding: 10px;
+    margin: 0px 0px 0px 10px;
+}
+.contacto input, .contacto textarea{
+    background-color: #fcefdc;
+    border: #c78c19 solid 1px;
+    width: 300px;
+    display: block;
+    margin: 10px 10px 10px 20px;
+    padding: 10px 140px;
+}
+
+.contacto button{
+    background-color: #f8d7a6;
+    padding: 10px 30px;
+    border: #c78c19 solid 1px;
+    border-radius: 5px;
+    margin: 10px 200px 10px 200px;
+    font-weight: bold;
+}

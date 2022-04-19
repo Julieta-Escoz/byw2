@@ -1,0 +1,38 @@
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#banner{
+    width:100%;
+}
+
+.principal{
+    
+    padding: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin: 10px;
+}
+
+.ubicacion{
+    text-align: center;
+    margin: 30px;
+}
+
+.ubicacion li{
+    margin: 20px;
+}
+
+.ubicacion h3{
+    font-size: 20px;
+}
+
+
+
+
